@@ -1,0 +1,982 @@
+# depslib dependency file v1.0
+1529944726 source:c:\users\thiag\desktop\projeto space invaders\tab.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
+1529949568 source:c:\users\thiag\desktop\projeto space invaders\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1529949756 source:c:\users\thiag\desktop\projeto space invaders\menu.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1529106398 source:c:\users\thiag\desktop\projeto space invaders\extra.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1529958678 source:c:\users\thiag\desktop\projeto space invaders\executa_jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1529946520 source:c:\users\thiag\desktop\projeto space invaders\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1529862063 source:c:\users\thiag\desktop\projeto space invaders\funcoes_extra.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1530036547 source:c:\users\laura porfirio\desktop\projeto space invaders\executa_jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"bala.h"
+	"funcoes.h"
+
+1529949568 source:c:\users\laura porfirio\desktop\projeto space invaders\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1529949756 source:c:\users\laura porfirio\desktop\projeto space invaders\menu.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1529946520 source:c:\users\laura porfirio\desktop\projeto space invaders\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1529944726 source:c:\users\laura porfirio\desktop\projeto space invaders\tab.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
+1530034635 source:c:\users\laura porfirio\desktop\projeto space invaders\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"funcoes.h"
+
+1529950996 source:c:\users\thiag\desktop\projeto space invaders\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1529959124 source:e:\projeto space invaders\executa_jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1529950996 source:e:\projeto space invaders\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1529949568 source:e:\projeto space invaders\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1529949756 source:e:\projeto space invaders\menu.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1529946520 source:e:\projeto space invaders\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1529944726 source:e:\projeto space invaders\tab.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
+1530037555 source:c:\users\laura porfirio\desktop\projeto space invaders\bala.c
+	<stdio.h>
+	"bala.h"
+	"funcoes.h"
+
+1530034277 c:\users\laura porfirio\desktop\projeto space invaders\bala.h
+
+1530033794 c:\users\laura porfirio\desktop\projeto space invaders\funcoes.h
+
+1530798666 source:c:\users\thiag\desktop\projeto space invaders  v1.0\bala.c
+	<stdio.h>
+	"bala.h"
+	"funcoes.h"
+	"invader.h"
+
+1530746770 c:\users\thiag\desktop\projeto space invaders  v1.0\bala.h
+
+1530033796 c:\users\thiag\desktop\projeto space invaders  v1.0\funcoes.h
+
+1530806844 source:c:\users\thiag\desktop\projeto space invaders  v1.0\executa_jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"bala.h"
+	"funcoes.h"
+	"invader.h"
+
+1530034636 source:c:\users\thiag\desktop\projeto space invaders  v1.0\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"funcoes.h"
+
+1530799252 source:c:\users\thiag\desktop\projeto space invaders  v1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1530799914 source:c:\users\thiag\desktop\projeto space invaders  v1.0\menu.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1530289146 source:c:\users\thiag\desktop\projeto space invaders  v1.0\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1530736234 source:c:\users\thiag\desktop\projeto space invaders  v1.0\tab.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
+1530798666 source:e:\projeto space invaders  v1.0\bala.c
+	<stdio.h>
+	"bala.h"
+	"funcoes.h"
+	"invader.h"
+
+1530746770 e:\projeto space invaders  v1.0\bala.h
+
+1530033796 e:\projeto space invaders  v1.0\funcoes.h
+
+1530799186 source:e:\projeto space invaders  v1.0\executa_jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"bala.h"
+	"funcoes.h"
+	"invader.h"
+
+1530034636 source:e:\projeto space invaders  v1.0\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"funcoes.h"
+
+1530799252 source:e:\projeto space invaders  v1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1530799914 source:e:\projeto space invaders  v1.0\menu.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1530289146 source:e:\projeto space invaders  v1.0\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1530736234 source:e:\projeto space invaders  v1.0\tab.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
+1530227024 source:d:\projeto space invaders  v1.0\bala.c
+	<stdio.h>
+	"bala.h"
+	"funcoes.h"
+
+1530227024 d:\projeto space invaders  v1.0\bala.h
+
+1530033796 d:\projeto space invaders  v1.0\funcoes.h
+
+1530277700 source:d:\projeto space invaders  v1.0\executa_jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"bala.h"
+	"funcoes.h"
+
+1530034636 source:d:\projeto space invaders  v1.0\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"funcoes.h"
+
+1529949568 source:d:\projeto space invaders  v1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1529949756 source:d:\projeto space invaders  v1.0\menu.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1530277700 source:d:\projeto space invaders  v1.0\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1530229132 source:d:\projeto space invaders  v1.0\tab.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
+1530798665 source:c:\users\laura porfirio\desktop\projeto space invaders  v1.0\bala.c
+	<stdio.h>
+	"bala.h"
+	"funcoes.h"
+	"invader.h"
+
+1530746770 c:\users\laura porfirio\desktop\projeto space invaders  v1.0\bala.h
+
+1530033796 c:\users\laura porfirio\desktop\projeto space invaders  v1.0\funcoes.h
+
+1530799184 source:c:\users\laura porfirio\desktop\projeto space invaders  v1.0\executa_jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"bala.h"
+	"funcoes.h"
+	"invader.h"
+
+1530034636 source:c:\users\laura porfirio\desktop\projeto space invaders  v1.0\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"funcoes.h"
+
+1530799250 source:c:\users\laura porfirio\desktop\projeto space invaders  v1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1530799913 source:c:\users\laura porfirio\desktop\projeto space invaders  v1.0\menu.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1530289146 source:c:\users\laura porfirio\desktop\projeto space invaders  v1.0\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1530736234 source:c:\users\laura porfirio\desktop\projeto space invaders  v1.0\tab.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
+1530752568 source:c:\users\laura porfirio\desktop\projeto space invaders  v1.0\invader.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"invader.h"
+
+1530752568 source:e:\projeto space invaders  v1.0\invader.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"invader.h"
+
+1530806627 source:c:\users\thiag\desktop\projeto space invaders  v1.0\invader.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"invader.h"
+
+1530805293 c:\users\thiag\desktop\projeto space invaders  v1.0\invader.h
+
+1530755947 source:c:\users\thiag\desktop\projeto\projeto space invaders  v1.0\executa_jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"bala.h"
+	"funcoes.h"
+	"invader.h"
+
+1530746769 c:\users\thiag\desktop\projeto\projeto space invaders  v1.0\bala.h
+
+1530033796 c:\users\thiag\desktop\projeto\projeto space invaders  v1.0\funcoes.h
+
+1530751078 c:\users\thiag\desktop\projeto\projeto space invaders  v1.0\invader.h
+
+1530034636 source:c:\users\thiag\desktop\projeto\projeto space invaders  v1.0\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"funcoes.h"
+
+1530752566 source:c:\users\thiag\desktop\projeto\projeto space invaders  v1.0\invader.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"invader.h"
+
+1529949568 source:c:\users\thiag\desktop\projeto\projeto space invaders  v1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1530755994 source:c:\users\thiag\desktop\projeto\projeto space invaders  v1.0\menu.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1530289146 source:c:\users\thiag\desktop\projeto\projeto space invaders  v1.0\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1530736232 source:c:\users\thiag\desktop\projeto\projeto space invaders  v1.0\tab.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
+1530756133 source:c:\users\thiag\desktop\projeto\projeto space invaders  v1.0\bala.c
+	<stdio.h>
+	"bala.h"
+	"funcoes.h"
+	"invader.h"
+
+1530751080 e:\projeto space invaders  v1.0\invader.h
+
+1530751080 c:\users\laura porfirio\desktop\projeto space invaders  v1.0\invader.h
+
+1531245500 source:c:\users\thiag\desktop\projeto space invaders vtestando\bala.c
+	<stdio.h>
+	"bala.h"
+	"funcoes.h"
+	"invader.h"
+	"menu.h"
+	"executa_jogo.h"
+
+1531245070 c:\users\thiag\desktop\projeto space invaders vtestando\bala.h
+
+1531246536 c:\users\thiag\desktop\projeto space invaders vtestando\funcoes.h
+
+1531248476 c:\users\thiag\desktop\projeto space invaders vtestando\invader.h
+
+1531335856 source:c:\users\thiag\desktop\projeto space invaders vtestando\executa_jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"bala.h"
+	"funcoes.h"
+	"invader.h"
+	"nave.h"
+	"tab.h"
+	"menu.h"
+
+1531248266 source:c:\users\thiag\desktop\projeto space invaders vtestando\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"funcoes.h"
+
+1531248762 source:c:\users\thiag\desktop\projeto space invaders vtestando\invader.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"invader.h"
+
+1531249556 source:c:\users\thiag\desktop\projeto space invaders vtestando\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1531336043 source:c:\users\thiag\desktop\projeto space invaders vtestando\menu.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	"ranking.h"
+	"funcoes.h"
+
+1531336121 source:c:\users\thiag\desktop\projeto space invaders vtestando\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1531335559 source:c:\users\thiag\desktop\projeto space invaders vtestando\tab.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	"invader.h"
+	"executa_jogo.h"
+	"nave.h"
+
+1531249826 c:\users\thiag\desktop\projeto space invaders vtestando\menu.h
+
+1531246508 c:\users\thiag\desktop\projeto space invaders vtestando\executa_jogo.h
+
+1531249970 c:\users\thiag\desktop\projeto space invaders vtestando\nave.h
+
+1531335437 c:\users\thiag\desktop\projeto space invaders vtestando\tab.h
+
+1531164821 source:c:\users\thiag\desktop\projeto\projeto space invaders vtestando\bala.c
+	<stdio.h>
+	"bala.h"
+	"funcoes.h"
+	"invader.h"
+	"menu.h"
+	"executa_jogo.h"
+
+1531164821 c:\users\thiag\desktop\projeto\projeto space invaders vtestando\bala.h
+
+1530033796 c:\users\thiag\desktop\projeto\projeto space invaders vtestando\funcoes.h
+
+1531108994 c:\users\thiag\desktop\projeto\projeto space invaders vtestando\invader.h
+
+1530226644 c:\users\thiag\desktop\projeto\projeto space invaders vtestando\menu.h
+
+1531156957 c:\users\thiag\desktop\projeto\projeto space invaders vtestando\executa_jogo.h
+
+1531165599 source:c:\users\thiag\desktop\projeto\projeto space invaders vtestando\executa_jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"bala.h"
+	"funcoes.h"
+	"invader.h"
+	"nave.h"
+	"tab.h"
+	"menu.h"
+
+1531110523 c:\users\thiag\desktop\projeto\projeto space invaders vtestando\nave.h
+
+1530227024 c:\users\thiag\desktop\projeto\projeto space invaders vtestando\tab.h
+
+1531165365 source:c:\users\thiag\desktop\projeto\projeto space invaders vtestando\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"funcoes.h"
+
+1531159269 source:c:\users\thiag\desktop\projeto\projeto space invaders vtestando\invader.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"invader.h"
+
+1530799252 source:c:\users\thiag\desktop\projeto\projeto space invaders vtestando\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1530799914 source:c:\users\thiag\desktop\projeto\projeto space invaders vtestando\menu.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+
+1531110523 source:c:\users\thiag\desktop\projeto\projeto space invaders vtestando\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1531153598 source:c:\users\thiag\desktop\projeto\projeto space invaders vtestando\tab.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	"invader.h"
+	"executa_jogo.h"
+	"nave.h"
+
+1531336137 source:c:\users\thiag\desktop\projeto space invaders vtestando\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"funcoes.h"
+
+1531250050 c:\users\thiag\desktop\projeto space invaders vtestando\ranking.h
+
+1531245500 source:e:\projeto space invaders v.1.0\bala.c
+	<stdio.h>
+	"bala.h"
+	"funcoes.h"
+	"invader.h"
+	"menu.h"
+	"executa_jogo.h"
+
+1531245070 e:\projeto space invaders v.1.0\bala.h
+
+1531246536 e:\projeto space invaders v.1.0\funcoes.h
+
+1531248476 e:\projeto space invaders v.1.0\invader.h
+
+1531249826 e:\projeto space invaders v.1.0\menu.h
+
+1531246508 e:\projeto space invaders v.1.0\executa_jogo.h
+
+1531335858 source:e:\projeto space invaders v.1.0\executa_jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"bala.h"
+	"funcoes.h"
+	"invader.h"
+	"nave.h"
+	"tab.h"
+	"menu.h"
+
+1531249970 e:\projeto space invaders v.1.0\nave.h
+
+1531335438 e:\projeto space invaders v.1.0\tab.h
+
+1531248266 source:e:\projeto space invaders v.1.0\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"funcoes.h"
+
+1531248762 source:e:\projeto space invaders v.1.0\invader.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"invader.h"
+
+1531336552 source:e:\projeto space invaders v.1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1531336044 source:e:\projeto space invaders v.1.0\menu.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	"ranking.h"
+	"funcoes.h"
+
+1531250050 e:\projeto space invaders v.1.0\ranking.h
+
+1531336122 source:e:\projeto space invaders v.1.0\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1531336138 source:e:\projeto space invaders v.1.0\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"funcoes.h"
+
+1531335560 source:e:\projeto space invaders v.1.0\tab.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	"invader.h"
+	"executa_jogo.h"
+	"nave.h"
+
+1531245500 source:c:\users\thiag\desktop\projeto space invaders v.1.0\bala.c
+	<stdio.h>
+	"bala.h"
+	"funcoes.h"
+	"invader.h"
+	"menu.h"
+	"executa_jogo.h"
+
+1531353839 c:\users\thiag\desktop\projeto space invaders v.1.0\bala.h
+
+1531246536 c:\users\thiag\desktop\projeto space invaders v.1.0\funcoes.h
+
+1531248476 c:\users\thiag\desktop\projeto space invaders v.1.0\invader.h
+
+1531249826 c:\users\thiag\desktop\projeto space invaders v.1.0\menu.h
+
+1531353935 c:\users\thiag\desktop\projeto space invaders v.1.0\executa_jogo.h
+
+1531353472 source:c:\users\thiag\desktop\projeto space invaders v.1.0\executa_jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"bala.h"
+	"funcoes.h"
+	"invader.h"
+	"nave.h"
+	"tab.h"
+	"menu.h"
+
+1531249970 c:\users\thiag\desktop\projeto space invaders v.1.0\nave.h
+
+1531335438 c:\users\thiag\desktop\projeto space invaders v.1.0\tab.h
+
+1531353493 source:c:\users\thiag\desktop\projeto space invaders v.1.0\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"funcoes.h"
+
+1531353522 source:c:\users\thiag\desktop\projeto space invaders v.1.0\invader.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"invader.h"
+
+1531401604 source:c:\users\thiag\desktop\projeto space invaders v.1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menu.h"
+
+1531336044 source:c:\users\thiag\desktop\projeto space invaders v.1.0\menu.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	"ranking.h"
+	"funcoes.h"
+
+1531354116 c:\users\thiag\desktop\projeto space invaders v.1.0\ranking.h
+
+1531354064 source:c:\users\thiag\desktop\projeto space invaders v.1.0\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1531336138 source:c:\users\thiag\desktop\projeto space invaders v.1.0\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"funcoes.h"
+
+1531353639 source:c:\users\thiag\desktop\projeto space invaders v.1.0\tab.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	"invader.h"
+	"executa_jogo.h"
+	"nave.h"
+
+1531387452 source:c:\users\mateu\desktop\projeto space invaders v.1.0\bala.c
+	<stdio.h>
+	"bala.h"
+	"funcoes.h"
+	"invader.h"
+	"menu.h"
+	"executa_jogo.h"
+
+1531387454 c:\users\mateu\desktop\projeto space invaders v.1.0\bala.h
+
+1531387454 c:\users\mateu\desktop\projeto space invaders v.1.0\funcoes.h
+
+1531387454 c:\users\mateu\desktop\projeto space invaders v.1.0\invader.h
+
+1531387458 c:\users\mateu\desktop\projeto space invaders v.1.0\menu.h
+
+1531387454 c:\users\mateu\desktop\projeto space invaders v.1.0\executa_jogo.h
+
+1531405287 source:c:\users\mateu\desktop\projeto space invaders v.1.0\executa_jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"bala.h"
+	"funcoes.h"
+	"invader.h"
+	"nave.h"
+	"tab.h"
+	"menu.h"
+
+1531387458 c:\users\mateu\desktop\projeto space invaders v.1.0\nave.h
+
+1531387462 c:\users\mateu\desktop\projeto space invaders v.1.0\tab.h
+
+1531387454 source:c:\users\mateu\desktop\projeto space invaders v.1.0\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"funcoes.h"
+
+1531387454 source:c:\users\mateu\desktop\projeto space invaders v.1.0\invader.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"invader.h"
+
+1531387456 source:c:\users\mateu\desktop\projeto space invaders v.1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menu.h"
+
+1531387458 source:c:\users\mateu\desktop\projeto space invaders v.1.0\menu.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	"ranking.h"
+	"funcoes.h"
+
+1531387460 c:\users\mateu\desktop\projeto space invaders v.1.0\ranking.h
+
+1531387458 source:c:\users\mateu\desktop\projeto space invaders v.1.0\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1531387462 source:c:\users\mateu\desktop\projeto space invaders v.1.0\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"funcoes.h"
+
+1531387462 source:c:\users\mateu\desktop\projeto space invaders v.1.0\tab.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	"invader.h"
+	"executa_jogo.h"
+	"nave.h"
+
+1531387452 source:d:\projeto space invaders v.1.0\bala.c
+	<stdio.h>
+	"bala.h"
+	"funcoes.h"
+	"invader.h"
+	"menu.h"
+	"executa_jogo.h"
+
+1531387454 d:\projeto space invaders v.1.0\bala.h
+
+1531387454 d:\projeto space invaders v.1.0\funcoes.h
+
+1531387454 d:\projeto space invaders v.1.0\invader.h
+
+1531387458 d:\projeto space invaders v.1.0\menu.h
+
+1531387454 d:\projeto space invaders v.1.0\executa_jogo.h
+
+1531405414 source:d:\projeto space invaders v.1.0\executa_jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"bala.h"
+	"funcoes.h"
+	"invader.h"
+	"nave.h"
+	"tab.h"
+	"menu.h"
+
+1531387458 d:\projeto space invaders v.1.0\nave.h
+
+1531387462 d:\projeto space invaders v.1.0\tab.h
+
+1531387454 source:d:\projeto space invaders v.1.0\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"funcoes.h"
+
+1531387454 source:d:\projeto space invaders v.1.0\invader.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"invader.h"
+
+1531387456 source:d:\projeto space invaders v.1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menu.h"
+
+1531387458 source:d:\projeto space invaders v.1.0\menu.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	"ranking.h"
+	"funcoes.h"
+
+1531387460 d:\projeto space invaders v.1.0\ranking.h
+
+1531387458 source:d:\projeto space invaders v.1.0\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1531387462 source:d:\projeto space invaders v.1.0\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"funcoes.h"
+
+1531387462 source:d:\projeto space invaders v.1.0\tab.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	"invader.h"
+	"executa_jogo.h"
+	"nave.h"
+
+1531387452 source:d:\programação c\projeto space invaders v.1.0\bala.c
+	<stdio.h>
+	"bala.h"
+	"funcoes.h"
+	"invader.h"
+	"menu.h"
+	"executa_jogo.h"
+
+1531387454 d:\programação c\projeto space invaders v.1.0\bala.h
+
+1531387454 d:\programação c\projeto space invaders v.1.0\funcoes.h
+
+1531387454 d:\programação c\projeto space invaders v.1.0\invader.h
+
+1531387458 d:\programação c\projeto space invaders v.1.0\menu.h
+
+1531387454 d:\programação c\projeto space invaders v.1.0\executa_jogo.h
+
+1532110078 source:d:\programação c\projeto space invaders v.1.0\executa_jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"bala.h"
+	"funcoes.h"
+	"invader.h"
+	"nave.h"
+	"tab.h"
+	"menu.h"
+
+1531387458 d:\programação c\projeto space invaders v.1.0\nave.h
+
+1531387462 d:\programação c\projeto space invaders v.1.0\tab.h
+
+1531387454 source:d:\programação c\projeto space invaders v.1.0\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	"funcoes.h"
+
+1531387454 source:d:\programação c\projeto space invaders v.1.0\invader.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"invader.h"
+
+1531387456 source:d:\programação c\projeto space invaders v.1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menu.h"
+
+1531387458 source:d:\programação c\projeto space invaders v.1.0\menu.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	"ranking.h"
+	"funcoes.h"
+
+1531387460 d:\programação c\projeto space invaders v.1.0\ranking.h
+
+1531387458 source:d:\programação c\projeto space invaders v.1.0\nave.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1531387462 source:d:\programação c\projeto space invaders v.1.0\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"funcoes.h"
+
+1531387462 source:d:\programação c\projeto space invaders v.1.0\tab.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	"invader.h"
+	"executa_jogo.h"
+	"nave.h"
+
